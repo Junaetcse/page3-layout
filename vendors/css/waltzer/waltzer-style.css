@@ -14,16 +14,17 @@ a {
 .outerWrapper {
     text-align: left;
     position: relative;
-    margin: 60px auto 60px auto;
-    width: 960px;
+    /* margin: 60px auto 60px auto; */
+    width: 90%;
+    margin-left: 100px;
 }
 
 .item {
     float: left;
     margin-right: 48px;
-    width: 162px;
+    width: 300px;
     padding: 20px;
-    height: 162px;
+    height: 300px;
     border: 1px solid #b3b3b3;
     background-color: #fff;
     border-radius: 5px;
