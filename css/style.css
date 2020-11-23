@@ -18,3 +18,29 @@ body {
     height: 404px;
     color: white;
 }
+
+.cover-video {
+    height: 350px;
+    background: url(/assets/slider1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+
+.video-description {
+    padding-top: 200px;
+    padding-left: 80px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    /* background-color: DodgerBlue; */
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.flex-container>div {
+    background-color: #f1f1f1;
+    text-align: center;
+}
