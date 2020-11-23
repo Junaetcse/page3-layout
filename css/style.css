@@ -18,14 +18,3 @@ body {
     height: 404px;
     color: white;
 }
-
-@media (max-width: 640px) {
-    #example .crs-bar-roll-current {
-        width: 38px;
-        height: 38px;
-    }
-    #example .crs-bar-roll-item {
-        width: 30px;
-        height: 30px;
-    }
-}
