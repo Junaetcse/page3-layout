@@ -44,3 +44,17 @@ body {
     background-color: #f1f1f1;
     text-align: center;
 }
+
+.flex-container2 {
+    display: flex;
+}
+
+.flex-container2>div {
+    background-color: #cacaca;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    height: 330px;
+    width: 250px;
+    border-radius: 10px;
+}
