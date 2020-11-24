@@ -45,16 +45,16 @@ body {
     text-align: center;
 }
 
-.flex-container2 {
-    display: flex;
-}
 
-.flex-container2>div {
+/* .flex-container2 {
+    display: flex;
+}*/
+
+.entertainment-div {
     background-color: #cacaca;
     margin: 10px;
     padding: 20px;
     font-size: 30px;
     height: 330px;
-    width: 250px;
     border-radius: 10px;
 }
