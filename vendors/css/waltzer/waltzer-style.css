@@ -51,7 +51,7 @@ a {
     top: 80px;
     cursor: pointer;
     opacity: 0.8;
-    background: transparent url('/assets/arrows.png') top left no-repeat;
+    background: transparent url('../../../assets/arrows.png') top left no-repeat;
     -webkit-transition: opacity 0.2s linear;
     -moz-transition: opacity 0.2s linear;
     -o-transition: opacity 0.2s linear;
@@ -94,7 +94,7 @@ a {
     height: 37px;
     cursor: pointer;
     left: 82px;
-    background: transparent url('/assets/arrows_vert.png') top left no-repeat;
+    background: transparent url('../../../assets/arrows_vert.png') top left no-repeat;
 }
 
 .vert .left-nav-btn {

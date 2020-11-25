@@ -21,7 +21,7 @@ body {
 
 .cover-video {
     height: 350px;
-    background: url(/assets/slider1.jpg);
+    background: url(../assets/slider1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 5px;
