@@ -2,6 +2,10 @@ body {
     background: #1a51d333;
 }
 
+html {
+    font-size: 16px;
+}
+
 .navbar {
     border-bottom: 3px solid #008ed6;
     background: #292b2c;
@@ -57,4 +61,12 @@ body {
     font-size: 30px;
     height: 330px;
     border-radius: 10px;
+}
+
+.heading-tag {
+    font-size: 20px;
+}
+
+.heading-btn {
+    font-size: 16px;
 }
