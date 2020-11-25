@@ -1,6 +1,6 @@
 /* bootstrap css */
 
-@media (min-width: 250px) and (max-width: 300px) {
+@media (min-width: 250px) and (max-width: 299px) {
     .outerWrapper {
         width: 40%;
     }
@@ -14,9 +14,17 @@
     .heading-btn {
         font-size: 10px;
     }
+    .video-border {
+        border: 1px solid black;
+        border-radius: 5px;
+        height: 1040px;
+    }
+    .flex-container {
+        padding: 20px;
+    }
 }
 
-@media (min-width: 310px) and (max-width: 420px) {
+@media (min-width: 300px) and (max-width: 420px) {
     .outerWrapper {
         width: 48%;
     }
@@ -30,15 +38,31 @@
     .heading-btn {
         font-size: 10px;
     }
+    .video-border {
+        border: 1px solid black;
+        border-radius: 5px;
+        height: 1040px;
+    }
+    .flex-container {
+        padding: 20px;
+    }
 }
 
-@media (max-width: 575.98px) {
+@media (min-width: 421px) and (max-width: 575.98px) {
     .outerWrapper {
         width: 50%;
     }
     .item {
         width: 196px;
         height: 230px;
+    }
+    .video-border {
+        border: 1px solid black;
+        border-radius: 5px;
+        height: 1040px;
+    }
+    .flex-container {
+        padding: 20px;
     }
 }
 
@@ -56,6 +80,14 @@
     }
     .outerWrapper {
         width: 60%;
+    }
+    .video-border {
+        border: 1px solid black;
+        border-radius: 5px;
+        height: 1040px;
+    }
+    .flex-container {
+        padding: 20px;
     }
 }
 
