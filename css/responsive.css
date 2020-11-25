@@ -46,6 +46,9 @@
     .flex-container {
         padding: 20px;
     }
+    .intertainment-bollywood-image p {
+        width: 84%;
+    }
 }
 
 @media (min-width: 421px) and (max-width: 575.98px) {
@@ -63,6 +66,9 @@
     }
     .flex-container {
         padding: 20px;
+    }
+    .intertainment-bollywood-image p {
+        width: 90%;
     }
 }
 
@@ -89,6 +95,9 @@
     .flex-container {
         padding: 20px;
     }
+    .intertainment-bollywood-image p {
+        width: 86%;
+    }
 }
 
 
@@ -101,6 +110,11 @@
     .item {
         width: 245px;
         height: 273px;
+    }
+    .intertainment-bollywood-image p {
+        width: 79%;
+        font-size: 19px;
+        bottom: 8px;
     }
 }
 
@@ -119,5 +133,16 @@
 @media (min-width: 1200px) {
     .outerWrapper {
         width: 82%;
+    }
+    .intertainment-bollywood-image p {
+        width: 73%;
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 1220px) and (max-width: 1985px) {
+    .intertainment-bollywood-image p {
+        width: 84%;
+        font-size: 15px;
     }
 }
