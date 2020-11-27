@@ -22,6 +22,9 @@
     .flex-container {
         padding: 20px;
     }
+    .intertainment-fashion-image p {
+        font-size: 14px;
+    }
 }
 
 @media (min-width: 300px) and (max-width: 420px) {
@@ -49,6 +52,9 @@
     .intertainment-bollywood-image p {
         width: 84%;
     }
+    .intertainment-fashion-image p {
+        font-size: 14px;
+    }
 }
 
 @media (min-width: 421px) and (max-width: 575.98px) {
@@ -69,6 +75,9 @@
     }
     .intertainment-bollywood-image p {
         width: 90%;
+    }
+    .intertainment-fashion-image p {
+        font-size: 18px;
     }
 }
 
@@ -98,6 +107,9 @@
     .intertainment-bollywood-image p {
         width: 86%;
     }
+    .intertainment-fashion-image p {
+        font-size: 20px;
+    }
 }
 
 
@@ -115,6 +127,9 @@
         width: 79%;
         font-size: 19px;
         bottom: 8px;
+    }
+    .intertainment-fashion-image p {
+        font-size: 13px;
     }
 }
 
